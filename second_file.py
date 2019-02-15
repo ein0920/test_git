@@ -7,3 +7,5 @@ a = func()
 # test for commit with no add
 
 # add a line in branch dev
+
+# add another line in branch dev
